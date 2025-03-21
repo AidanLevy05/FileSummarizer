@@ -2,9 +2,8 @@
 Uses SpaCy AI to summarize .pdf and .pptx files.
 
 # Requirements
-
-## Python version
 Python 3.12
+Use a virtual environment
 
 ## Imports
 > TKinter
